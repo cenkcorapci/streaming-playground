@@ -1,2 +1,2 @@
 # streaming-playground
-Playing around with streamign engines
+Playing around with streaming engines.
